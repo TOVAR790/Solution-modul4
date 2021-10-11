@@ -1,3 +1,4 @@
+
 /*(function (window) {
   var johnGreeter = {};
   johnGreeter.name = "John";
@@ -15,12 +16,12 @@ function greeting(person) {
   /*var speakWord = "Hello ";*/
   //var yakov = "Hello"
   //yakovGreeter.sayHello = function (Yaakov) {
-  	function greeting(person) {
+  	/*function greeting(person) {
+  		var ManuelGreeter = {};
     console.log('Hello '  +  person);
   }
 
   greeting('Manuel');
   greeting(' Andres');
-
 
 
